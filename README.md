@@ -1,4 +1,2 @@
 ## Notes for Un Report
-We plot blbalablablabla.
-Each point reperstns a contry.
-continents are froup by color.
+We plotted life expectancy over time. You should know that each point represent a country and that the continents are group by color.
