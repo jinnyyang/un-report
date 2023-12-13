@@ -28,6 +28,7 @@ sum(5, 6)
 round(3.14159, digits = 2)
 read_csv(file = "gapminder_1997.csv")
 
+#####
 ## let's start ggplot! 
 library(ggplot2)
 gapminder_1997 <- read_csv("gapminder_1997.csv")
