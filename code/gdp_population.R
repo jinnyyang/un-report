@@ -70,24 +70,4 @@ ggplot(data = gapminder_data) +
        y = "Life Expectancy", 
        title = "Do people live in more recent year live longer?") 
   
-
-
-
-  
-co2_data <- read_csv("co2-un-data.csv")
-
-
-
- geom_text(aes(label = country))
-
-
-
-
-
-
-
-library(tidygraph)
-library(tidyr)
-library(tidyselect)
-library(tidytree)
-
+ggsave("figure/Plot.png")
